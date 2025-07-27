@@ -4,11 +4,11 @@ class script(object):
     HELP_TXT = """<b>Hᴇʏ {}
 If You Want To Create This Type Of Bot Contact Us
 
-🔗 For More Information Contact @VJbots_bot 🔗</b>"""
+🔗 For More Information Contact @The_Jack1 🔗</b>"""
 
-    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/YourSearchVJbot><b>Movie Search Bot</b></a>\n
-👑 Oᴡɴᴇʀ : <a href=https://t.me/vjbots_bot><b>🏆 Vijay 🏆</b></a>\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/vj_Bots><b>⚡ VJ Bots ⚡</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 Mʏ Nᴀᴍᴇ : <a href=https://t.me/CineMoviezbot><b>Movie Search Bot</b></a>\n
+👑 Oᴡɴᴇʀ : <a href=https://t.me/The_Jack1><b>🏆 Jack 🏆</b></a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/CineMoviezChannel><b>⚡ CineMoviez ⚡</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
@@ -16,7 +16,7 @@ If You Want To Create This Type Of Bot Contact Us
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 ✅ - This Bot Is An Private Project
-✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/VJ_Bots">⚡ ʜᴇʀᴇ ⚡</a>
+✅ - ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/The_Jack1">⚡ ʜᴇʀᴇ ⚡</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:</b>"""
 
     MANUELFILTER_TXT = """ʜᴇʟᴘ: <b>ꜰɪʟᴛᴇʀꜱ</b>
@@ -128,15 +128,15 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : Anjel Neha
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/vjbots_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ꜰᴜʟʟ ɴᴀᴍᴇ : Jack
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/The_Jack1'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 Check Your Spelling, Release Date, If You Still Don't Get The Movie Then Type Like This...
 ⊱⋅ ──────────────────── ⋅⊰
  #Request Avatar 2009 720p
 
-Owner Will Update The Movie Within 24Hour"""
+Owner Will Update The Movie Within 1Hour"""
 
     MINFO = """
 ⚠ How To Request Movies ⁉️ »
