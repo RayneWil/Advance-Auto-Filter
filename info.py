@@ -12,13 +12,13 @@ def is_enabled(value, default):
         return default
 
 # Bot information
-SESSION = environ.get('SESSION', 'Media_Bot')
+SESSION = environ.get('SESSION', 'CineMoviezBot')
 API_ID = int(environ.get('API_ID', '26536974'))
 API_HASH = environ.get('API_HASH', 'f8c1d86e8e6527e43f2be19d6f3fccea')
 BOT_TOKEN = environ.get('BOT_TOKEN', '7530334025:AAEqJEMxpMTNxPAm5fCu8Dwmhhk9w6qXaUc')
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 300))
+CACHE_TIME = int(environ.get('CACHE_TIME', 180))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/004900a93b1d43c775976-b0a3d5491a7b64f4c9.jpg')).split()
